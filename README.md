@@ -10,7 +10,7 @@
 ![Alt text](screenshots/4.PNG)
 
 ## Tools Used
-#### - ReactJS: Frontend
-#### - NodeJS + ExpressJS: Backend
-#### - MySQL: Database
-#### - Material UI: Styling
+#### - Frontend: ReactJS
+#### - Backend: NodeJS + ExpressJS
+#### - Database: MySQL
+#### - Styling Material UI
